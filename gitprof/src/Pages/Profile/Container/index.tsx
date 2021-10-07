@@ -1,12 +1,13 @@
-import { Container } from "../style";
+import { styles } from "../style";
+import { View } from "react-native";
 import React from "react";
 
 const UserProfile = (props: any) => {
 
     return(
-    <Container style = {{background: "#fff"}}>
+    <View style = {styles.Container}>
         {props.children}
-    </Container>
+    </View>
     )
 
 }
