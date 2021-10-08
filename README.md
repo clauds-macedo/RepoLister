@@ -9,8 +9,8 @@
 
 # Perfil
 
-<img src = "https://prnt.sc/1vch55y">
+<img src = "https://raw.github.com/clauds-macedo/RepoLister/main/imgs/download (1).png">
 
 # Repositórios
 
-![ScreenShot](https://https://prnt.sc/1vchcfi)
+<img src = "https://raw.github.com/clauds-macedo/RepoLister/main/imgs/download (2).png">
