@@ -5,7 +5,7 @@
 
 # Home
 
-![ScreenShot](https://raw.github.com/clauds-macedo/RepoLister/main/imgs)
+<img src = "https://raw.github.com/clauds-macedo/RepoLister/main/imgs/download.png">
 
 # Perfil
 
